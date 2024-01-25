@@ -70,7 +70,7 @@ h2 {
 footer {
 display: flex;
 flex-direction: column;
-    background-color: black;
+    background-color: gray;
     margin-top: 20px;
     
     border-radius: 10px;
